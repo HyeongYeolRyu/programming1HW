@@ -1,1 +1,1 @@
-# Homework for lecture "programming1 and practice"
+# Assignments for lecture "programming1 and practice"
